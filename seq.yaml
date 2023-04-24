@@ -74,4 +74,4 @@ L: 1
 loss_type: 'CE'
 
 # relu, lin
-phi: 'lin'
+phi: 'relu'
